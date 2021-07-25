@@ -1,0 +1,8 @@
+# Project exclude paths
+/discover-server/target/
+/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/target/
+/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/target/
+/dtx-seata-demo/dtx-seata-demo-bank1/target/
+/dtx-seata-demo/dtx-seata-demo-bank2/target/
+/dtx-txmsg-demo/dtx-txmsg-demo-bank1/target/
+/dtx-txmsg-demo/dtx-txmsg-demo-bank2/target/
